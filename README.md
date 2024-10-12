@@ -3,7 +3,7 @@
 El proyecto presenta un análisis exhaustivo de una base de datos sobre historial crediticio, recuperada del repositorio del Dr. Gastón Sánchez. La base de datos incluye 4,455 encuestados y 14 variables que describen aspectos financieros y demográficos, como ingresos, gastos y situación laboral. Los datos que incluye la base de datos som los siguientes:
 
 | Variable      | Descripcion              |
-|     :---:     |          :---:
+|     :---      |          :---
 | 1 Status	    | credit status            |
 | 2 Seniority	  | job seniority (years)    |
 | 3 Home	      | type of home ownership   |
